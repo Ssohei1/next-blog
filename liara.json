@@ -1,0 +1,6 @@
+{
+    "app": "soheil-blog",
+    "next": {
+        "modifyConfig": false
+    }
+}
